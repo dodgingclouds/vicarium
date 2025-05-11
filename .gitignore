@@ -1,0 +1,19 @@
+# Godot-specific
+.import/
+export.cfg
+export_presets.cfg
+project.godot/tmp/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+.idea/
+*.swp
+*.bak
+*.tmp
+
+# Godot 4 generated build files
+*.godot.tmp
